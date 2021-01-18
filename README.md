@@ -1,7 +1,20 @@
 # Recvis - Topic F - Sign Language Translation from Video to Text
 
 Vincent LIU liuvincent25@gmail.com
+
 Supervised by Gül Varol
+
+## Early Fusion
+
+![Early.Fusion](https://github.com/liuvince/mva-slt/blob/main/Slide/early_fusion.png)
+
+Figure 1. Scheme of early fusion before projection and post projection (left) and a detailed overview of a single layered Sign LanguageTransformer (right) taken from [2]. The image example is from PHOENIX14T datatset [1].
+
+## Late Fusion
+
+![Late.Fusion](https://github.com/liuvince/mva-slt/blob/main/Slide/late_fusion.gif)
+
+Equation 1. Equation of Late fusion.
 
 ## Code
 
