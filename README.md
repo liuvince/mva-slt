@@ -4,6 +4,12 @@ Vincent LIU liuvincent25@gmail.com
 
 Supervised by Gül Varol
 
+My code relies on the following repository:
+
+* https://github.com/neccam/slt [1]
+
+* https://github.com/naver/dope [2]
+
 ## Early Fusion
 
 ![Early.Fusion](https://github.com/liuvince/mva-slt/blob/main/Slide/early_fusion.png)
