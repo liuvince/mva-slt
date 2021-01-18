@@ -4,7 +4,7 @@ Vincent LIU liuvincent25@gmail.com
 
 Supervised by Gül Varol
 
-My code relies on the following repository:
+My code relies on the following repositories:
 
 * https://github.com/neccam/slt [1]
 
