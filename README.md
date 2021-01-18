@@ -8,7 +8,7 @@ Supervised by Gül Varol
 
 ![Early.Fusion](https://github.com/liuvince/mva-slt/blob/main/Slide/early_fusion.png)
 
-Figure 1. Scheme of early fusion before projection and post projection (left) and a detailed overview of a single layered Sign LanguageTransformer (right) taken from [2]. The image example is from PHOENIX14T datatset [1].
+Figure 1. Scheme of early fusion before projection and post projection (left) and a detailed overview of a single layered Sign LanguageTransformer (right) taken from [1]. The image example is from PHOENIX14T datatset [5].
 
 ## Late Fusion
 
