@@ -10,6 +10,10 @@ My code relies on the following repositories:
 
 * https://github.com/naver/dope [2]
 
+## Compute DOPE features on Phoenix14T Dataset [5]
+
+![Dope.Viz](https://github.com/liuvince/mva-slt/blob/main/Slide/dope_viz.jpg)
+
 ## Early Fusion
 
 ![Early.Fusion](https://github.com/liuvince/mva-slt/blob/main/Slide/early_fusion.png)
